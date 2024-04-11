@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T13:05:51.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NrtV299dD5DPfd2EX8jO" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T13:25:11.407Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="U8kJ19Z6ABc4Aom0_KH-" version="24.2.3" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
-    <mxGraphModel dx="1562" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7026571954dc6520-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="25" y="15" width="1050" height="820" as="geometry" />
+          <mxGeometry x="10" y="15" width="1050" height="820" as="geometry" />
         </mxCell>
         <mxCell id="7026571954dc6520-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -76,8 +76,37 @@
         <mxCell id="7026571954dc6520-34" value="Some default text to fill some space, and&amp;nbsp;&lt;span&gt;something more so there is more text&lt;/span&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="270" y="650" width="470" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fBT0Navc_Kn4J6YYu9rq-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;whiteSpace=wrap;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="305" y="175" width="150" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="7026571954dc6520-36" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.&amp;nbsp;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="705" width="490" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="fBT0Navc_Kn4J6YYu9rq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="130" width="800" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="fBT0Navc_Kn4J6YYu9rq-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="190" width="190" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="fBT0Navc_Kn4J6YYu9rq-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="130" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fBT0Navc_Kn4J6YYu9rq-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="190" width="610" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="fBT0Navc_Kn4J6YYu9rq-8" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="145" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fBT0Navc_Kn4J6YYu9rq-9" value="New project" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="145" width="105.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fBT0Navc_Kn4J6YYu9rq-14" value="Import" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#505050;strokeWidth=1;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingRight=0;spacing=17;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="145" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fBT0Navc_Kn4J6YYu9rq-15" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" vertex="1" parent="fBT0Navc_Kn4J6YYu9rq-14">
+          <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
